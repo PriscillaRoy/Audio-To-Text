@@ -9,6 +9,7 @@ from gtts import gTTS
 import twilio
 
 
+
 def speak(audioString):
     print(audioString)
     tts = gTTS(text=audioString, lang='en')
