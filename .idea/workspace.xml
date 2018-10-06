@@ -2,9 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b34694c-7dab-4b06-b2d3-3f99f4dfaea0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/facebook-webapp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/receive_call.py" afterPath="$PROJECT_DIR$/receive_call.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twilioAudioToText.py" afterPath="$PROJECT_DIR$/twilioAudioToText.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/INSTALL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MANIFEST.in" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TextTo.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/lib.macosx-10.6-intel-2.7/pyaudio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/credentials.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/error.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/play_wave.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/play_wave_callback.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/play_wave_macosx_channelmap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/record.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/system_info.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/wire_callback.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/wire_full.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples/wire_half.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gttsconversion.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/make_call.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/receive_call.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/setup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sphinx/conf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sphinx/examples.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sphinx/index.rst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PyAudio.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PyAudio.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PyAudio.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/PyAudio.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_portaudiomodule.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/_portaudiomodule.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/pyaudio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/error_tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/pyaudio_tests.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twilioAudioToText.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/facebook-webapp.py" afterPath="$PROJECT_DIR$/facebook-webapp.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,80 +48,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pyaudio.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pyaudio.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11186">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gttsconversion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gttsconversion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="12" />
-              <folding>
-                <element signature="e#57#88#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="twilioAudioToText.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twilioAudioToText.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="e#57#88#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="facebook-webapp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/facebook-webapp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="make_call.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/make_call.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="405">
+              <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="receive_call.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/receive_call.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="credentials.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/credentials.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -215,7 +182,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.receive_call">
+  <component name="RunManager" selected="Python.facebook-webapp">
+    <configuration name="facebook-webapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Audio-To-Text" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facebook-webapp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="gttsconversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,18 +268,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.gttsconversion" />
       <item index="1" class="java.lang.String" itemvalue="Python.twilioAudioToText" />
       <item index="2" class="java.lang.String" itemvalue="Python.make_call" />
       <item index="3" class="java.lang.String" itemvalue="Python.receive_call" />
+      <item index="4" class="java.lang.String" itemvalue="Python.facebook-webapp" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.receive_call" />
-        <item index="1" class="java.lang.String" itemvalue="Python.make_call" />
-        <item index="2" class="java.lang.String" itemvalue="Python.twilioAudioToText" />
-        <item index="3" class="java.lang.String" itemvalue="Python.gttsconversion" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.facebook-webapp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.receive_call" />
+        <item index="2" class="java.lang.String" itemvalue="Python.make_call" />
+        <item index="3" class="java.lang.String" itemvalue="Python.twilioAudioToText" />
+        <item index="4" class="java.lang.String" itemvalue="Python.gttsconversion" />
       </list>
     </recent_temporary>
   </component>
@@ -313,13 +299,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="722" y="0" width="718" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2917647" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -378,9 +364,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="38" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="12" />
-          <folding>
-            <element signature="e#57#88#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -396,9 +380,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -406,9 +388,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -416,17 +396,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#57#88#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/facebook-webapp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="405">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
